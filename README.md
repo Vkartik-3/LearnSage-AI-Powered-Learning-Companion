@@ -1,1 +1,1 @@
-# AcademIQ_Backend
+# AcademIQ
