@@ -1,0 +1,52 @@
+{
+  "Header": {
+    "title": "AcademIQ",
+    "paragraph": "Welcome to a new era of personalized learning with AI Tutor, where knowledge meets adaptability for a brighter academic future."
+  },
+  "About": {
+    "paragraph": "Welcome to AcademIQ, your personalized companion on the journey of academic excellence and knowledge enrichment. At AcademIQ, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  
+  "Contact": {
+    "address": "4321 Business Square , Bandra(West), Mumbai 12345 ",
+    "phone": "+91 98458 45628",
+    "email": "ContactUs@academiq.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Real-time Doubt Solving",
+      "text": "AcademIQ excels in instant doubt resolution, providing swift and precise answers to student queries."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bars",
+      "title": "Module-Based Learning ",
+      "text": "Our program is designed with cohesive modules, streamlining learning for a thorough grasp of subjects in an efficient manner."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Personalized Learning ",
+      "text": "Evaluate user knowledge and personalize learning paths. Offer tailored study plans based on unique strengths and weaknesses for effective academic progress."
+    }
+  ]
+}
