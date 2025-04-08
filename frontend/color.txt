@@ -1,6 +1,0 @@
-final pallete:
-navbar background: #0c0e0d
-normal bg: #202426
-login bg: #1c1c1c
-orange: #ff6542
-dark orange: #f03126
