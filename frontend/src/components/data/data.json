@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "AcademIQ",
+    "title": "LearnSage",
     "paragraph": "Welcome to a new era of personalized learning with AI Tutor, where knowledge meets adaptability for a brighter academic future."
   },
   "About": {
-    "paragraph": "Welcome to AcademIQ, your personalized companion on the journey of academic excellence and knowledge enrichment. At AcademIQ, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.",
+    "paragraph": "Welcome to LearnSage, your personalized companion on the journey of academic excellence and knowledge enrichment. At LearnSage, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -22,7 +22,7 @@
   "Contact": {
     "address": "4321 Business Square , Bandra(West), Mumbai 12345 ",
     "phone": "+91 98458 45628",
-    "email": "ContactUs@academiq.com",
+    "email": "ContactUs@learnsage.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -31,7 +31,7 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Real-time Doubt Solving",
-      "text": "AcademIQ excels in instant doubt resolution, providing swift and precise answers to student queries."
+      "text": "LearnSage excels in instant doubt resolution, providing swift and precise answers to student queries."
     },
     {
       "icon": "fa fa-bullhorn",

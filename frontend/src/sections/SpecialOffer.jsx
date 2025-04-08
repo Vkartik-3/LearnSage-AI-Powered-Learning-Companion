@@ -15,10 +15,10 @@ const SpecialOffer = () => {
           <span className="text-coral-red " style={{color: "#ff6542"}}>About</span> <span style={{color: "white"}}>Us</span>
         </h2>
         <p className="mt-4 lg:max-w-lg info-text" style={{color: "lightgray"}}>
-        Welcome to AcademIQ, your personalized companion on the journey of academic excellence and knowledge enrichment.
+        Welcome to LearnSage, your personalized companion on the journey of academic excellence and knowledge enrichment.
         </p>
         <p className="mt-6 lg:max-w-lg info-text" style={{color: "lightgray"}}>
-        At AcademIQ, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.
+        At LearnSage, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.
         </p>
         {/* <div className="mt-11 flex flex-wrap gap-4">
           <Button label="Shop now" icon={arrowRight}/>
@@ -40,7 +40,7 @@ const SpecialOffer = () => {
     //         <div className="about-text">
     //           <h2>About Us</h2>
     //           {/* <p>{props.data ? props.data.paragraph : "loading..."}</p> */}
-    //           <p>Welcome to AcademIQ, your personalized companion on the journey of academic excellence and knowledge enrichment. At AcademIQ, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.</p>
+    //           <p>Welcome to LearnSage, your personalized companion on the journey of academic excellence and knowledge enrichment. At LearnSage, we understand that every learner is unique, with varying speeds and capabilities to grasp different subjects. Our cutting-edge artificial intelligence algorithms are designed to adapt and cater to your individual learning style, ensuring a tailored educational experience. We prioritize not just academic achievement but overall comprehension, fostering a learning environment that aligns with your pace and capacity for understanding.</p>
               
     //         </div>
     //       </div>

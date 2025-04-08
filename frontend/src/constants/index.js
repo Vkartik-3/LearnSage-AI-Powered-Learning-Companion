@@ -57,7 +57,7 @@ export const services = [
     {
         imgURL: "src/assets/icons/doubts.png",
         label: "Real-time Doubt Solving",
-        subtext: "AcademIQ excels in instant doubt resolution, providing swift and precise answers to student queries."
+        subtext: "LearnSage excels in instant doubt resolution, providing swift and precise answers to student queries."
     },
     {
         imgURL: "src/assets/icons/ai.png",
